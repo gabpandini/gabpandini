@@ -1,4 +1,4 @@
-### Hi! My name is Gabriela, but you can call me Gabi, Gaby, Gabe...
+### Hi! I'm Gabriela :)
 
 - 🔭 I’m a junior Front End Developer;
 - 🌌 I’m currently learning JavaScript, TypeScript, React, HTML and CSS;
