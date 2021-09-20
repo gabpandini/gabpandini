@@ -1,4 +1,4 @@
-### Hi! I'm Gabriela :)
+### Hi! My name is Gabriela :)
 
 - 🔭 I’m a junior Front End Developer;
 - 🌌 I’m currently learning JavaScript, TypeScript, React, HTML and CSS;
