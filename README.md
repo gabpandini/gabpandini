@@ -1,7 +1,7 @@
 ### Hi! My name is Gabriela :)
 
-- 🔭 I’m a junior Front End Developer;
-- 🌌 I’m currently learning JavaScript, TypeScript, React, HTML and CSS;
+- 🔭 I’m a Front End Developer (React);
+- 🌌 I’m currently learning Python and Ethical Hacking;
 - 🧝🏼‍♀️ Pronouns: She/Her.
 
 <div>
@@ -10,6 +10,7 @@
   <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabpandini&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
+   <img align="center" alt="Gab-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
