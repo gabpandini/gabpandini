@@ -1,7 +1,7 @@
 ### Hi! My name is Gabriela :)
 
 - 🔭 I’m a Front End Developer (React);
-- 🌌 I’m currently learning Python and Ethical Hacking;
+- 🌌 I’m currently learning Python;
 - 🧝🏼‍♀️ Pronouns: She/Her.
 
 <div>
