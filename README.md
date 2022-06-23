@@ -16,7 +16,7 @@
   <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gab-yoda" src="https://media3.giphy.com/media/Q6gPyUYrCk76g/giphy.gif?cid=790b7611a83a0a510647fad5c7669a8c2b92ff1a93db82a8&rid=giphy.gif&ct=g">
+  <img align="right" alt="Gab-yoda" src="https://i.giphy.com/media/Q6gPyUYrCk76g/giphy.webp">
 </div>
   
   ##
